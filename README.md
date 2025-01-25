@@ -65,18 +65,3 @@ E-Commerce/
    ```bash
    npm start
    ```
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
-
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature/YourFeature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/YourFeature`.
-5. Open a pull request.
-
-## ✨ Acknowledgements
-
-- Thanks to all open-source contributors for their support and resources.
-- Inspired by modern e-commerce platforms for functionality and design.
